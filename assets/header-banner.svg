@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Ismail Yurd - Software Support and System Integration Specialist">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="55%" stop-color="#111b2a"/>
+      <stop offset="100%" stop-color="#15263d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1d6fb8"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1e2d42" stroke-width="0.6" stroke-opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="14" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="13" fill="none" stroke="#24364d" stroke-width="1.5"/>
+  <rect x="0" y="0" width="1200" height="4" rx="2" fill="url(#accent)"/>
+
+  <!-- Left Info -->
+  <rect x="44" y="34" width="388" height="26" rx="4" fill="#132236" stroke="#26456b" stroke-width="1"/>
+  <circle cx="62" cy="47" r="4" fill="#34d399"/>
+  <text x="76" y="51" fill="#93c5fd" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="0.8">DATABASE  ·  SYSTEMS  ·  AUTOMATION</text>
+
+  <text x="44" y="112" fill="#f8fafc" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="1.2">İSMAİL YURD</text>
+  <text x="44" y="148" fill="#38bdf8" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="20" font-weight="600">Software Support &amp; System Integration Specialist</text>
+
+  <line x1="44" y1="170" x2="680" y2="170" stroke="#223247" stroke-width="1.5"/>
+  <text x="44" y="200" fill="#cbd5e1" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="16" font-weight="500">Oracle SQL / PL/SQL   ·   C# / WPF / .NET 8   ·   Python   ·   Linux / Cloud</text>
+  <text x="44" y="226" fill="#64748b" font-family="Consolas, 'Courier New', monospace" font-size="13">github.com/SpeedyMuffin   ·   speedymuffin.github.io</text>
+
+  <!-- Right Terminal Card -->
+  <rect x="752" y="32" width="408" height="196" rx="10" fill="#090d13" stroke="#24364d" stroke-width="1.2"/>
+  <rect x="752" y="32" width="408" height="30" rx="10" fill="#101823"/>
+  <rect x="752" y="50" width="408" height="12" fill="#101823"/>
+  <circle cx="772" cy="47" r="5" fill="#ef4444"/>
+  <circle cx="790" cy="47" r="5" fill="#f59e0b"/>
+  <circle cx="808" cy="47" r="5" fill="#22c55e"/>
+  <text x="828" y="51" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="12">profile.json</text>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13">
+    <text x="772" y="88" fill="#64748b">"location"<tspan fill="#94a3b8">  : </tspan><tspan fill="#34d399">"Izmir, Türkiye"</tspan><tspan fill="#64748b">,</tspan></text>
+    <text x="772" y="112" fill="#64748b">"education"<tspan fill="#94a3b8"> : </tspan><tspan fill="#38bdf8">"MIS (B.S.) · Comp. Prog."</tspan><tspan fill="#64748b">,</tspan></text>
+    <text x="772" y="136" fill="#64748b">"databases"<tspan fill="#94a3b8"> : </tspan><tspan fill="#facc15">"Oracle SQL, PL/SQL, SQLite"</tspan><tspan fill="#64748b">,</tspan></text>
+    <text x="772" y="160" fill="#64748b">"desktop"<tspan fill="#94a3b8">   : </tspan><tspan fill="#e2e8f0">"C# / WPF / .NET 8"</tspan><tspan fill="#64748b">,</tspan></text>
+    <text x="772" y="184" fill="#64748b">"cloud"<tspan fill="#94a3b8">     : </tspan><tspan fill="#e2e8f0">"Python · Ubuntu · systemd"</tspan><tspan fill="#64748b">,</tspan></text>
+    <text x="772" y="208" fill="#64748b">"languages"<tspan fill="#94a3b8"> : </tspan><tspan fill="#cbd5e1">"TR (Native) · EN (B1) · JP (A2)"</tspan></text>
+  </g>
+</svg>
